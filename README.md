@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-An ALX Repository For Learning Python
+My first readme for the alx higher level programming language
